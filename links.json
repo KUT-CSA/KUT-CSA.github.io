@@ -1,5 +1,19 @@
 {
-  "data": "https://docs.google.com/spreadsheets/d/1Du-6pjHe--WEOFPr7Hf8z0sMkc9KpydIkTeNnHS1VGU/edit",
-  "projects": "https://docs.google.com/spreadsheets/d/BBB/edit",
-  "grades": "https://docs.google.com/spreadsheets/d/CCC/edit"
+  "sheets": [
+    {
+      "name": "Data",
+      "description": "Chart information and planning",
+      "url": "https://docs.google.com/spreadsheets/d/1Du-6pjHe--WEOFPr7Hf8z0sMkc9KpydIkTeNnHS1VGU/edit"
+    },
+    {
+      "name": "Projects",
+      "description": "Projects and academic work",
+      "url": "YOUR_GOOGLE_SHEET_URL"
+    },
+    {
+      "name": "Notes",
+      "description": "Study notes and resources",
+      "url": "YOUR_GOOGLE_SHEET_URL"
+    }
+  ]
 }
